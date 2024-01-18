@@ -7,7 +7,7 @@ public class Datatypes {
         byte b = 120;
         long l = 87654321;
         float f = 800.7689f;
-        double d = 78934.6637;
+        double d = 78934.56637;
         char ch = 'p';
 
         System.out.println("The boolean variable is " + flag);
