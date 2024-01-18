@@ -17,8 +17,7 @@ public class ConditionalOperators {
         {
             System.out.println("Found ans - " + value);
         }
-
-
+        
         sc.close();
     }
 }
